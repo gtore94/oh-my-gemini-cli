@@ -1,0 +1,4 @@
+description = "High-throughput parallel task execution"
+prompt = """
+Activate the `omc_ultrawork` skill for: {{args}}
+"""

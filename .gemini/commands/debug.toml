@@ -1,0 +1,4 @@
+description = "Diagnose session or repo state problems"
+prompt = """
+Activate the `omc_debug` skill to investigate: {{args}}
+"""

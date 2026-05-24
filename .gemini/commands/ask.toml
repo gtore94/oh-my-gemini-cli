@@ -1,0 +1,4 @@
+description = "Consult external models (Claude, Codex, Gemini)"
+prompt = """
+Activate the `omc_toolkit` (/ask) for: {{args}}
+"""

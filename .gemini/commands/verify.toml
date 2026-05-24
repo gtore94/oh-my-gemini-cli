@@ -1,0 +1,4 @@
+description = "Verify changes with fresh evidence"
+prompt = """
+Activate the `omc_toolkit` (/verify) to validate: {{args}}
+"""

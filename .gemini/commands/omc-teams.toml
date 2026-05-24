@@ -1,0 +1,4 @@
+description = "Coordinate parallel agents for large tasks (OMC alias)"
+prompt = """
+Activate the `omc_team` skill to execute: {{args}}
+"""

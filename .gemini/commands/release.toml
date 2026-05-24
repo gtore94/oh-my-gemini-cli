@@ -1,0 +1,4 @@
+description = "Automated release workflow"
+prompt = """
+Activate the `omc_toolkit` (/release) for: {{args}}
+"""

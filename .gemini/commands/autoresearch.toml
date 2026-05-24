@@ -1,0 +1,4 @@
+description = "Stateful autonomous research and evaluation loop"
+prompt = """
+Activate the `omc_toolkit` (/autoresearch) for: {{args}}
+"""

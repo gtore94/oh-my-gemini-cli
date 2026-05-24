@@ -1,0 +1,4 @@
+description = "Causal investigation followed by requirements crystallization"
+prompt = """
+Activate the `omc_deep_interview` with trace injection for: {{args}}
+"""

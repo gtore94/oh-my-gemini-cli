@@ -1,0 +1,4 @@
+description = "Show the oh-my-claudecode Heads-Up Display"
+prompt = """
+Activate the `omc_toolkit` (/hud) for: {{args}}
+"""

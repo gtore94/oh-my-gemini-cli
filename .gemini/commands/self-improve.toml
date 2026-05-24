@@ -1,0 +1,4 @@
+description = "Autonomous self-improvement loop for the current project"
+prompt = """
+Activate the `omc_toolkit` (/self-improve) for: {{args}}
+"""

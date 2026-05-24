@@ -1,0 +1,4 @@
+description = "Research external documentation, GitHub repos, or SDKs in parallel"
+prompt = """
+Activate the `omc_toolkit` (/external-context) for: {{args}}
+"""

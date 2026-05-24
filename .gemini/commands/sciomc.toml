@@ -1,0 +1,4 @@
+description = "Orchestrate parallel scientist agents for data analysis or research"
+prompt = """
+Activate the `omc_toolkit` (/sciomc) for: {{args}}
+"""

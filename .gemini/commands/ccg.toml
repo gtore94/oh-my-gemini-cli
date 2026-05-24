@@ -1,0 +1,6 @@
+description = "Claude-Codex-Gemini tri-model orchestration for multi-perspective advice"
+prompt = """
+Activate the `omc_ccg` skill and consult external models for: {{args}}
+
+Synthesize the results from Gemini, Claude, and Codex into a unified recommendation.
+"""

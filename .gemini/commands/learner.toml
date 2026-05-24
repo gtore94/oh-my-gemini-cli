@@ -1,0 +1,4 @@
+description = "Extract reusable patterns into portable skill files (OMC alias)"
+prompt = """
+Activate the `omc_toolkit` (/skillify) for: {{args}}
+"""

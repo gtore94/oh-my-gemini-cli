@@ -1,0 +1,4 @@
+description = "Evidence-driven causal tracing of observed behaviors"
+prompt = """
+Activate the `omc_trace` skill to find the root cause of: {{args}}
+"""

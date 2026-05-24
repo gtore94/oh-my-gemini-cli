@@ -1,0 +1,4 @@
+description = "Perform visual regression or UI consistency checks"
+prompt = """
+Activate the `omc_toolkit` (/visual-verdict) for: {{args}}
+"""

@@ -1,0 +1,4 @@
+description = "Project Session Manager for OMC"
+prompt = """
+Activate the `omc_toolkit` (/psm) for: {{args}}
+"""

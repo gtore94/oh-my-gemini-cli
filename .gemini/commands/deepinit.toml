@@ -1,0 +1,4 @@
+description = "Initialize project orchestration index"
+prompt = """
+Activate the `omc_toolkit` (/deepinit) for: {{args}}
+"""

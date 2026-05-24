@@ -1,0 +1,4 @@
+description = "Persist critical information or directives into the project memory"
+prompt = """
+Activate the `omc_toolkit` (/remember) for: {{args}}
+"""

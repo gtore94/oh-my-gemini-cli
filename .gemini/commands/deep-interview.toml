@@ -1,0 +1,6 @@
+description = "Socratic deep interview to clarify requirements before building"
+prompt = """
+Activate the `omc_deep_interview` skill and start an interview for: {{args}}
+
+Focus on uncovering assumptions and reducing ambiguity before proceeding to execution.
+"""

@@ -1,0 +1,4 @@
+description = "Configure desktop/push notifications for OMC tasks"
+prompt = """
+Activate the `omc_toolkit` (/configure-notifications) for: {{args}}
+"""

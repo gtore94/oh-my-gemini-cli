@@ -1,0 +1,4 @@
+description = "Multi-step task planning and requirement gathering (OMC alias)"
+prompt = """
+Activate the `omc_plan` skill for: {{args}}
+"""

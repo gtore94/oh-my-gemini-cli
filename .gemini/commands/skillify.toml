@@ -1,0 +1,4 @@
+description = "Extract reusable patterns into skills"
+prompt = """
+Activate the `omc_toolkit` (/skillify) for: {{args}}
+"""

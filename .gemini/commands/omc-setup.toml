@@ -1,0 +1,4 @@
+description = "Setup oh-my-claudecode for the current project"
+prompt = """
+Activate the `omc_toolkit` (/omc-setup) for: {{args}}
+"""

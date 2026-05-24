@@ -1,0 +1,6 @@
+description = "End-to-end autonomous execution from idea to working code"
+prompt = """
+Activate the `omc_autopilot` skill and handle the following request: {{args}}
+
+Follow the 5-phase autopilot lifecycle: Expansion, Planning, Execution, QA, and Validation.
+"""

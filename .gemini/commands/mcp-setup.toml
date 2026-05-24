@@ -1,0 +1,4 @@
+description = "Configure MCP servers for oh-my-claudecode"
+prompt = """
+Activate the `omc_toolkit` (/mcp-setup) for: {{args}}
+"""

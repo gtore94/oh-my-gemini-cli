@@ -1,0 +1,4 @@
+description = "Diagnose project orchestration health"
+prompt = """
+Activate the `omc_toolkit` (/omc-doctor)
+"""

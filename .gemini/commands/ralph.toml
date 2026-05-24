@@ -1,0 +1,6 @@
+description = "Persistence loop that ensures a task is 100% complete and verified"
+prompt = """
+Activate the `omc_ralph` skill and handle the following task: {{args}}
+
+Maintain the persistence loop until all user stories are verified as completed.
+"""

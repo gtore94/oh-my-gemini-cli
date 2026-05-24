@@ -1,0 +1,6 @@
+description = "Strategic planning with Planner, Architect, and Critic consensus"
+prompt = """
+Activate the `omc_plan` skill with consensus mode for: {{args}}
+
+Focus on architectural soundness, quality gating, and clear implementation steps.
+"""
