@@ -26,7 +26,7 @@ Use these first-class commands directly in the CLI (ensure you run `/commands re
 | :--- | :--- |
 | `/autopilot <idea>` | Start full autonomous lifecycle |
 | `/ralph <task>` | Start persistence loop with verification |
-| `/interview <idea>` | Start Socratic requirements gathering |
+| `/deep-interview <idea>` | Start Socratic requirements gathering |
 | `/plan <task>` | Strategic planning with expert consensus |
 | `/trace <issue>` | Evidence-driven causal root-cause analysis |
 | `/debug <problem>` | Diagnose session or workflow breakages |
@@ -37,18 +37,29 @@ Use these first-class commands directly in the CLI (ensure you run `/commands re
 
 ## 📖 Getting Started
 
-1. **Reload Commands**: In your Gemini CLI session, run:
-   ```bash
-   /commands reload
-   ```
-2. **Start a Task**: Try starting a new feature with autopilot:
-   ```bash
-   /autopilot "Build a simple task manager with local storage"
-   ```
-3. **Refine Requirements**: If you have a vague idea, use the interview:
-   ```bash
-   /interview "I want to improve the performance of our database layer"
-   ```
+### 1. Initial Setup (First-time clone)
+After cloning this repository, you must install dependencies for the OMC orchestration engine:
+```bash
+cd oh-my-claudecode && npm install && npm run build && cd ..
+```
+
+### 2. Reload Commands
+In your Gemini CLI session, run to register the new slash commands:
+```bash
+/commands reload
+```
+
+### 3. Start a Task
+Try starting a new feature with autopilot:
+```bash
+/autopilot "Build a simple task manager with local storage"
+```
+
+### 4. Refine Requirements
+If you have a vague idea, use the interview:
+```bash
+/deep-interview "I want to improve the performance of our database layer"
+```
 
 ## 📂 Project Structure
 
